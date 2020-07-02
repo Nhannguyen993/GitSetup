@@ -1,6 +1,6 @@
 # Getting started with R and Git
 
-Student: *Last name*, *First name*
+Student: *Nguyen*, *Nhan*
 
 Some helpful resources for **R**:
   * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
